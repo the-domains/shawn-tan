@@ -1,16 +1,16 @@
-typography_spectrum: 0.9955848718527704
+layout_spectrum: 0.13598859356716275
+typography_spectrum: 0.9331371025182307
 color:
-  brandStrength: 0.3213977252598852
-  lightness: 0.04151219385676086
-  saturation: 0.40385872311890125
-  rhythmicContrast: 0.5057183930184692
+  brandStrength: 0.4792387324851006
+  lightness: 0.8238850987982005
+  saturation: 0.7433618151117116
+  rhythmicContrast: 0.7760952617973089
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-layout_spectrum: 0.38181331427767873
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
 name: shawntan.sg
 navigation:
   - name: About Me
