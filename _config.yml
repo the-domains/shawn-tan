@@ -1,4 +1,3 @@
-layout_spectrum: 0.13598859356716275
 typography_spectrum: 0.9331371025182307
 color:
   brandStrength: 0.4792387324851006
@@ -11,10 +10,11 @@ color:
     - '#BDD4DE'
     - '#EFEFEF'
     - '#FF530D'
+layout_spectrum: 0.13598859356716275
 name: shawntan.sg
 navigation:
   - name: About Me
     id: 5f6f0021-ed1d-4483-b2b3-529f396c8e77
     type: content
 title: Shawn Tan
-description: Your International Property Consultant
+description: Own A Property Everywhere In The World
