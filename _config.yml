@@ -1,8 +1,19 @@
-typography_spectrum: 0.9331371025182307
+title: Shawn Tan
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.4792387324851006
-  lightness: 0.8238850987982005
   saturation: 0.7433618151117116
+  brandStrength: 0.4792387324851006
   rhythmicContrast: 0.7760952617973089
   brandColors:
     - '#2B3A42'
@@ -10,11 +21,12 @@ color:
     - '#BDD4DE'
     - '#EFEFEF'
     - '#FF530D'
-layout_spectrum: 0.13598859356716275
-name: shawntan.sg
+  lightness: 0.8238850987982005
+typography_spectrum: 0.9285714
+description: Own A Property Everywhere In The World
 navigation:
   - name: About Me
     id: 5f6f0021-ed1d-4483-b2b3-529f396c8e77
     type: content
-title: Shawn Tan
-description: Own A Property Everywhere In The World
+layout_spectrum: 0.6106337
+name: shawntan.sg
